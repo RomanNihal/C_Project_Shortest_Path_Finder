@@ -1,4 +1,4 @@
-# Shortest Path Finder  
+# Shortest Path Finder 
 
 This repository contains a **Shortest Path Finder** program written in **C**, developed as part of my **Algorithm Course**. The project helps users find the shortest path between two locations in a predefined map using a basic adjacency matrix representation.  
 
